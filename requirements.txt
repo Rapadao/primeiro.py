@@ -1,0 +1,5 @@
+ping3
+pyportscanner
+time
+requests
+os
